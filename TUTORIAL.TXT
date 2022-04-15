@@ -42,3 +42,20 @@ Aplicativo Teste
     Testar o Aplicativo no Browser
     New Terminal, type: Git Bash
     git status
+
+8. DEPLOY TO HEROKU
+    Heroku  
+    www.heroku.com
+    fmferreira82@gmail.com
+    senha não sei
+
+    app name: itpeppers-teste
+    Clicar em Create App
+    Selecionar: Connect using GitHub
+    Search for a repository to connect to: rcfdev/app-teste
+    Clicar em Connect
+    Clicar em Deploy Branch
+    Aguardar o final do deploy
+    Testar em: https://itpeppers-teste.herokuapp.com/
+
+ 
